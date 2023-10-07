@@ -2,6 +2,10 @@
     {
         "name": "Baringo",
         "capital": "Kabarnet",
+        "posistion":{
+            "lat": 0.72444025,
+            "lng": 36.020141937892475
+        },
         "code": 30,
         "sub_counties": [
             "Baringo central",
@@ -15,6 +19,10 @@
     {
         "name": "Bomet",
         "capital": "Bomet",
+        "posistion":{
+            "lat": -0.7196054000000001,
+            "lng": 35.23963843035895
+        },
         "code": 36,
         "sub_counties": [
             "Bomet central",
@@ -27,6 +35,10 @@
     {
         "name": "Bungoma",
         "capital": "Bungoma",
+        "posistion":{
+            "lat": 0.78292445,
+            "lng": 34.71916810731902
+        },
         "code": 39,
         "sub_counties": [
             "Bumula",
@@ -43,6 +55,10 @@
     {
         "name": "Busia",
         "capital": "Busia",
+        "posistion":{
+            "lat": 0.3712048,
+            "lng": 34.26479520608315
+        },
         "code": 40,
         "sub_counties": [
             "Budalangi",
@@ -56,6 +72,10 @@
     {
         "name": "Elgeyo-Marakwet",
         "capital": "Iten",
+        "posistion":{
+            "lat": 0.7422191499999999,
+            "lng": 35.561808313539316
+        },
         "code": 28,
         "sub_counties": [
             "Keiyo north",
@@ -67,6 +87,10 @@
     {
         "name": "Embu",
         "capital": "Embu",
+        "posistion":{
+            "lat": -0.5359479,
+            "lng": 37.6652884382665
+        },
         "code": 14,
         "sub_counties": [
             "Manyatta",
@@ -78,6 +102,10 @@
     {
         "name": "Garissa",
         "capital": "Garissa",
+        "posistion":{
+            "lat": -0.52360305,
+            "lng": 40.356386905787105
+        },
         "code": 7,
         "sub_counties": [
             "Daadab",
@@ -91,6 +119,10 @@
     {
         "name": "Homa Bay",
         "capital": "Homa Bay",
+        "posistion":{
+            "lat": -0.56396015,
+            "lng": 34.31878185590796
+        },
         "code": 43,
         "sub_counties": [
             "Homabay town",
@@ -106,6 +138,10 @@
     {
         "name": "Isiolo",
         "capital": "Isiolo",
+        "posistion":{
+            "lat":  1.0060600499999999,
+            "lng": 38.74789538540634
+        },
         "code": 11,
         "sub_counties": [
             "Central",
@@ -119,6 +155,10 @@
     {
         "name": "Kajiado",
         "code": 34,
+        "posistion":{
+            "lat":  -2.12171705,
+            "lng": 36.78625503675998
+        },
         "sub_counties": [
             "Isinya.",
             "Kajiado Central.",
@@ -130,6 +170,10 @@
     {
         "name": "Kakamega",
         "capital": "Kakamega",
+        "posistion":{
+            "lat":  0.4957104,
+            "lng": 34.801548861634615
+        },
         "code": 37,
         "sub_counties": [
             "Butere",
@@ -150,6 +194,10 @@
     {
         "name": "Kericho",
         "capital": "Kericho",
+        "posistion":{
+            "lat":  -0.32099679999999997,
+            "lng": 35.226127597753845
+        },
         "code": 35,
         "sub_counties": [
             "Ainamoi",
@@ -163,6 +211,10 @@
     {
         "name": "Kiambu",
         "capital": "Kiambu",
+        "posistion":{
+            "lat":  -1.03207695,
+            "lng": 36.815686702129064
+        },
         "code": 22,
         "sub_counties": [
             "Gatundu north",
@@ -182,6 +234,10 @@
     {
         "name": "Kilifi",
         "capital": "Kilifi",
+        "posistion":{
+            "lat":  -3.15073925,
+            "lng": 39.67507159193717
+        },
         "code": 3,
         "sub_counties": [
             "Genzw",
@@ -196,6 +252,10 @@
     {
         "name": "Kirinyaga",
         "capital": "Kerugoya/Kutus",
+        "posistion":{
+            "lat":   -0.46887805,
+            "lng": 37.30276810393241
+        },
         "code": 20,
         "sub_counties": [
             "Kirinyaga central",
@@ -208,6 +268,10 @@
     {
         "name": "Kisii",
         "capital": "Kisii",
+        "posistion":{
+            "lat":   -0.73894255,
+            "lng": 34.75398551201732
+        },
         "code": 45,
         "sub_counties": [
             
@@ -216,6 +280,10 @@
     {
         "name": "Kisumu",
         "capital": "Kisumu",
+        "posistion":{
+            "lat":   -0.197126,
+            "lng": 34.7778573178751
+        },
         "code": 42,
         "sub_counties": [
             "Kisumu central",
@@ -230,6 +298,10 @@
     {
         "name": "Kitui",
         "capital": "Kitui",
+        "posistion":{
+            "lat":   -1.5642219499999999,
+            "lng": 38.372811654368775
+        },
         "code": 15,
         "sub_counties": [
             "Ikutha",
@@ -252,6 +324,10 @@
     {
         "name": "Kwale",
         "capital": "Kwale",
+        "posistion":{
+            "lat":   -4.1836067,
+            "lng": 39.105094975232994
+        },
         "code": 2,
         "sub_counties": [
             "Kinango",
@@ -263,6 +339,10 @@
     {
         "name": "Laikipia",
         "capital": "Rumuruti",
+        "posistion":{
+            "lat":   0.2858452,
+            "lng": 36.825771076829064
+        },
         "code": 31,
         "sub_counties": [
             "Laikipia central",
@@ -275,6 +355,10 @@
     {
         "name": "Lamu",
         "capital": "Lamu",
+        "posistion":{
+            "lat":   -2.0645208999999998,
+            "lng": 40.72809915263692
+        },
         "code": 5,
         "sub_counties": [
             "Lamu East",
@@ -284,6 +368,10 @@
     {
         "name": "Machakos",
         "capital": "Machakos",
+        "posistion":{
+            "lat":   -1.27900465,
+            "lng": 37.39526976452546
+        },
         "code": 16,
         "sub_counties": [
             "Kathiani",
@@ -298,6 +386,10 @@
     {
         "name": "Makueni",
         "capital": "Wote",
+        "posistion":{
+            "lat":   -2.25709305,
+            "lng": 37.87717148162716
+        },
         "code": 17,
         "sub_counties": [
             "Kaiti",
@@ -311,6 +403,10 @@
     {
         "name": "Mandera",
         "capital": "Mandera",
+        "posistion":{
+            "lat":   3.2285332,
+            "lng": 40.70561647260599
+        },
         "code": 9,
         "sub_counties": [
             "Banissa",
@@ -324,6 +420,10 @@
     {
         "name": "Marsabit",
         "capital": "Marsabit",
+        "posistion":{
+            "lat":   2.85795825,
+            "lng": 37.715489185900395
+        },
         "code": 10,
         "sub_counties": [
             "Laisamis",
@@ -335,6 +435,10 @@
     {
         "name": "Meru",
         "capital": "Meru",
+        "posistion":{
+            "lat":   0.2254509,
+            "lng": 37.77726237163694
+        },
         "code": 12,
         "sub_counties": [
             "Buuri",
@@ -351,6 +455,10 @@
     {
         "name": "Migori",
         "capital": "Migori",
+        "posistion":{
+            "lat":   -1.0211616000000001,
+            "lng": 34.30964322421073
+        },
         "code": 44,
         "sub_counties": [
             "Awendo",
@@ -367,6 +475,10 @@
     {
         "name": "Mombasa",
         "capital": "Mombasa City",
+        "posistion":{
+            "lat":   -4.0390146,
+            "lng": 39.64842393685704
+        },
         "code": 1,
         "sub_counties": [
             "Changamwe",
@@ -380,6 +492,10 @@
     {
         "name": "Murang'a",
         "capital": "Murang'a",
+        "posistion":{
+            "lat":   -0.83091505,
+            "lng":  37.004861249618145
+        },
         "code": 21,
         "sub_counties": [
             "Gatanga",
@@ -395,6 +511,10 @@
     {
         "name": "Nairobi",
         "capital": "Nairobi City",
+        "posistion":{
+            "lat":    -1.3031689499999999,
+            "lng":  36.8260678052949
+        },
         "code": 47,
         "sub_counties": [
             "Dagoretti North Sub County",
@@ -419,6 +539,10 @@
     {
         "name": "Nakuru",
         "capital": "Nakuru",
+        "posistion":{
+            "lat":    -0.4598213,
+            "lng":  36.10080381595827
+        },
         "code": 32,
         "sub_counties": [
             "Bahati",
@@ -437,6 +561,10 @@
     {
         "name": "Nandi",
         "capital": "Kapsabet",
+        "posistion":{
+            "lat":     0.22539325,
+            "lng":   35.124492921854724
+        },
         "code": 29,
         "sub_counties": [
             "Aldai",
@@ -450,6 +578,10 @@
     {
         "name": "Narok",
         "capital": "Narok",
+        "posistion":{
+            "lat":     -1.2779365500000002,
+            "lng":   35.47742284932569
+        },
         "code": 33,
         "sub_counties": [
             "Narok east",
@@ -463,6 +595,10 @@
     {
         "name": "Nyamira",
         "capital": "Nyamira",
+        "posistion":{
+            "lat":     -0.65225405,
+            "lng":   34.934130799923295
+        },
         "code": 46,
         "sub_counties": [
             "Borabu",
@@ -475,6 +611,10 @@
     {
         "name": "Nyandarua",
         "capital": "Ol Kalou",
+        "posistion":{
+            "lat":     -0.39155344999999997,
+            "lng":    36.49776838093413
+        },
         "code": 18,
         "sub_counties": [
             "Kinangop",
@@ -487,6 +627,10 @@
     {
         "name": "Nyeri",
         "capital": "Nyeri",
+        "posistion":{
+            "lat":     -0.32121045000000004,
+            "lng":    36.92956152367317
+        },
         "code": 19,
         "sub_counties": [
             "Kieni east",
@@ -502,6 +646,10 @@
     {
         "name": "Samburu",
         "capital": "Maralal",
+        "posistion":{
+            "lat":      1.5394463,
+            "lng":    36.94216599162042
+        },
         "code": 25,
         "sub_counties": [
             "Samburu east",
@@ -512,6 +660,10 @@
     {
         "name": "Siaya",
         "capital": "Siaya",
+        "posistion":{
+            "lat":      -0.06040135,
+            "lng":    34.200135009996295
+        },
         "code": 41,
         "sub_counties": [
             "Alego usonga",
@@ -525,6 +677,10 @@
     {
         "name": "Taita-Taveta",
         "capital": "Voi",
+        "posistion":{
+            "lat":  -3.4178355,
+            "lng":   38.36706762808966
+        },
         "code": 6,
         "sub_counties": [
             "Mwatate",
@@ -536,6 +692,10 @@
     {
         "name": "Tana River",
         "capital": "Hola",
+        "posistion":{
+            "lat": -1.53651195,
+            "lng":  39.55083745466502
+        },
         "code": 4,
         "sub_counties": [
             "Bura",
@@ -546,6 +706,10 @@
     {
         "name": "Tharaka-Nithi",
         "capital": "Chuka",
+        "posistion":{
+            "lat": -0.19370805000000002,
+            "lng":  37.96140495608314
+        },
         "code": 13,
         "sub_counties": [
             "Chuka",
@@ -559,6 +723,10 @@
     {
         "name": "Trans-Nzoia",
         "capital": "Kitale",
+        "posistion":{
+            "lat": 1.0454582499999998,
+            "lng": 34.97904397271594
+        },
         "code": 26,
         "sub_counties": [
             "Cherangany",
@@ -571,6 +739,10 @@
     {
         "name": "Turkana",
         "capital": "Lodwar",
+        "posistion":{
+            "lat": 2.76556575,
+            "lng": 35.59772282185919
+        },
         "code": 23,
         "sub_counties": [
             "Loima",
@@ -583,6 +755,10 @@
     {
         "name": "Uasin Gishu",
         "capital": "Eldoret",
+        "posistion":{
+            "lat":  0.4771938,
+            "lng":  35.30505973699228
+        },
         "code": 27,
         "sub_counties": [
             "Ainabkoi",
@@ -596,6 +772,10 @@
     {
         "name": "Vihiga",
         "capital": "Vihiga",
+        "posistion":{
+            "lat": 0.0831199,
+            "lng": 34.708033906814826
+        },
         "code": 38,
         "sub_counties": [
             "Emuhaya",
@@ -608,6 +788,10 @@
     {
         "name": "Wajir",
         "capital": "Wajir",
+        "posistion":{
+            "lat": 1.9394402,
+            "lng": 40.02449393200057
+        },
         "code": 8,
         "sub_counties": [
             "Eldas",
@@ -621,6 +805,10 @@
     {
         "name": "West Pokot",
         "capital": "Kapenguria",
+        "posistion":{
+            "lat": 1.8798607999999999,
+            "lng": 35.21061300684997
+        },
         "code": 24,
         "sub_counties": [
             "Central Pokot",
